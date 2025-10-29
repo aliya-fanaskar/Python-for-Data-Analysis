@@ -76,6 +76,5 @@ This is mainly my personal learning log, but suggestions and improvements are al
 
 ## Feel free to Connect!
 
-**Aliya Fanaskar** - [LinkedIn](www.linkedin.com/in/aliya-adil99)
-
+**Aliya Fanaskar** - [LinkedIn](www.linkedin.com/in/aliya-adil99)\
 Thanks for stopping by!
