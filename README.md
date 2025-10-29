@@ -4,7 +4,7 @@ I’m currently taking the **[Complete Data Analyst Bootcamp course](https://www
 
 This space documents my personal journey of mastering Python for Data Analytics. The goal of this repository is not only to practice coding but to:
 - Build a solid foundation in Python for Data Analysis  
-- Document my learning progress 
+- Organize and document my diversified learning in one place
 - Create a personal reference hub for easy access in future
 
 I am sharing this here because I’m excited to see and share how my learning process, which includes a mix of structured lessons and curious explorations, evolves over time. This is a **work in progress** repository and I’ll keep adding new notebooks as I learn more.
