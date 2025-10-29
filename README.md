@@ -13,36 +13,9 @@ I am sharing this here because I’m excited to see and share how my learning pr
 
 ## Topics Covered (so far)
 
-1. [**Python Programming Basics**]() - Print statement, Comments, Variables, Data Types, Operators, Conditional Statements, Functions, Built-In Python Functions, Sequences, Iteration, etc.
+1. [**Python Programming Basics**](https://github.com/aliya-fanaskar/Python-for-Data-Analysts/blob/main/My_Learning_Journey/01-Python-Programming-Basics.ipynb) - Print statement, Comments, Variables, Data Types, Operators, Conditional Statements, Functions, Built-In Python Functions, Sequences, Iteration, etc.
    
-2. [**All about Strings**]() - Intro, Multi-line Strings, Escape chars, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
-   
-3. **Sequences**
-   - [**List**]() - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
-   - [**Tuple**]() - Creating Tuples, Tuple Methods, Immutability, Unpacking Tuples, Tuple Operations, etc
-   - [**Set**]() - Creating set, Accessing Set Items, Set Methods - Add items, Remove items, Join Sets, Frozenset, etc.
-   - [**Dictionary**]() - Creating Dictionary, Key-Value Pair, Mutability-Immutability, Dictionary Methods, Nested Dictionaries, etc.
-       
-4. [**Branching**]() - Meaning and Key concepts, If, If-Else, If-Elif-Else, pass statement, Python Match, etc.
-   
-5. **Iteration**
-   - [**While Loop**]() - While Loop, syntax, break , continue, else, pass, etc.
-   - [**For Loop**]() - For Loop, syntax, break, continue, pass, range() function, nested For loops, enumerate(), etc.
-   - [**on Sequences**]() - For loop and While loop on Lists, Tuples, Dictionaries, etc.
- 
-6. [**Functions**]() - Key Concepts, return, pass, scope, Parameters, Arguments, Recursion, etc.
-    
-7. [**Python Programming Fundamental Concepts**]() - Software Documentation, The Python Documentation, OOP, Module, Packages, the Python Standard Library, Using Python Packages, etc.   
-    
-8. **NumPy**
-    - [**Python Array Math**]() - Matrix, Scalars, Vectors, Tensors, Array, Creating matrices, Adding and Subtracting matrices, scalars, Transpose, Matrices Multiplication, Dot Product, etc.
-    - [**NumPy Introduction and Basics**]() - Intoduction, Data Types, Installation, updating and importing library, NumPy Arrays, Creating Arrays, useful Attributes, Array Dimensions, Array Operations, Indexing & Slicing, NumPy Functions, Mathematical Functions, Reshaping, Broadcasting, Stacking & Splitting, Copy vs View, etc.
-    - .......***Work-In-Progress***
-    
-9. **pandas**
-    - [**pandas Introduction and Basics**]() - Introduction, Installation, Updating, Importing library, pandas Series, Creating pandas Series, Index in pandas, Position-based vs Label-based Index, Methods, Parameter vs Argument, pandas DataFrame, Creating DataFrame, the pandas Documentation
-    
-10. ***(…more to come!)***
+2. ***(…more to come!)***
 
 ---
 
