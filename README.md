@@ -2,7 +2,7 @@
 
 I’m currently taking the **[Complete Data Analyst Bootcamp course](https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp/)** offered by ***365 Careers*** on **Udemy** and using it as the core structure for my Python learning. But I’m not stopping there. I’m also diving deeper into individual topics from other online sources (tutorial sites, blogs, articles, etc and of course… a fair bit of help from OpenAI's ChatGPT) through my self-exploration.
 
-This space documents my personal journey of mastering Python for Data Analytics. The goal of this repository is not only to practice coding but to:
+This space documents my personal journey of mastering Python for Data Analytics. The goal is not only to learn and practice coding but to:
 - Build a solid foundation in Python for Data Analysis  
 - Organize and document my diversified learning in one place
 - Create a personal reference hub for easy access in future
