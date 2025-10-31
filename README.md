@@ -1,4 +1,4 @@
-# My Python for Data Analysis journey
+# Python for Data Analysis (my learning journey)
 
 I’m currently taking the **[Complete Data Analyst Bootcamp course](https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp/)** offered by ***365 Careers*** on **Udemy** and using it as the core structure for my Python learning. But I’m not stopping there. I’m also diving deeper into individual topics from other online sources (tutorial sites, blogs, articles, etc and of course… a fair bit of help from OpenAI's ChatGPT) through my self-exploration.
 
@@ -15,7 +15,9 @@ I am sharing this here because I’m excited to see and share how my learning pr
 
 1. [**Python Programming Basics**](https://github.com/aliya-fanaskar/Python-for-Data-Analysts/blob/main/My_Learning_Journey/01-Python-Programming-Basics.ipynb) - Print statement, Comments, Variables, Data Types, Operators, Conditional Statements, Functions, Built-In Python Functions, Sequences, Iteration, etc.
    
-2. ***(…more to come!)***
+2. [**All about Strings**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/02-All-about-Strings.ipynb) - Intro, Multi-line Strings, Escape chars, Funtion Parameters, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
+      
+3. ***(…more to come!)***
 
 ---
 
