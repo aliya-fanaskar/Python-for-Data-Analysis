@@ -18,7 +18,7 @@ I am sharing this here because I’m excited to see and share how my learning pr
 2. [**All about Strings**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/02-All-about-Strings.ipynb) - Intro, Multi-line Strings, Escape chars, Funtion Parameters, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
    
 3. **Sequences**
-   - [**List**]() - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
+   - [**List**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/03.1-Sequences-List.ipynb) - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
       
 . ***(…more to come!)***
 
