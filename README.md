@@ -16,8 +16,11 @@ I am sharing this here because I’m excited to see and share how my learning pr
 1. [**Python Programming Basics**](https://github.com/aliya-fanaskar/Python-for-Data-Analysts/blob/main/My_Learning_Journey/01-Python-Programming-Basics.ipynb) - Print statement, Comments, Variables, Data Types, Operators, Conditional Statements, Functions, Built-In Python Functions, Sequences, Iteration, etc.
    
 2. [**All about Strings**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/02-All-about-Strings.ipynb) - Intro, Multi-line Strings, Escape chars, Funtion Parameters, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
+   
+3. **Sequences**
+   - [**List**]() - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
       
-3. ***(…more to come!)***
+. ***(…more to come!)***
 
 ---
 
