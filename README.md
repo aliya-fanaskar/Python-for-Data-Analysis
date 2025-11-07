@@ -19,7 +19,9 @@ I am sharing this here because I’m excited to see and share how my learning pr
    
 3. **Sequences**
    - [**List**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/03.1-Sequences-List.ipynb) - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
-      
+
+   - [**Tuple**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/03.2-Sequences-Tuple.ipynb) - Creating Tuple, List to Tuple, Tuple methods, Immutability, Unpacking, Concatenation, Multiplying Tuples, Deleting tuples, etc.
+
 . ***(…more to come!)***
 
 ---
