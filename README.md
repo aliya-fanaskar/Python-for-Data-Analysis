@@ -27,8 +27,11 @@ I am sharing this here because I’m excited to see and share how my learning pr
    - [**Dictionary**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/03.4-Sequences-Dictionary.ipynb) - Creating a dictionary, Mutability-Immutability, Dictinary Methods, Nested Dictionaries, etc.
    
 4. [**Branching**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/04-Branching.ipynb) - Concept, If, Else, Elif, short hand If-Else, pass statement, Match, etc.
+   
+5. **Iteration**
+   - [**While Loop**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/05.1-Iteration-While-loop.ipynb) - While Loop introduction, break Statement, continue Statement, else Statement, pass Statement, etc.
 
-5. ***(…more to come!)***
+6. ***(…more to come!)***
 
 ---
 
