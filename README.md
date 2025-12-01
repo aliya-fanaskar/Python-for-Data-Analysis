@@ -31,6 +31,9 @@ I am sharing this here because I’m excited to see and share how my learning pr
 5. **Iteration**
    - [**While Loop**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/05.1-Iteration-While-loop.ipynb) - While Loop introduction, break Statement, continue Statement, else Statement, pass Statement, etc.
 
+   - [**For Loop**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/05.2-Iteration-For-loop.ipynb) - For Loop introduction, break Statement, continue Statement, pass Statement, the range() function, nested For loops, enumerate(), etc.
+
+
 6. ***(…more to come!)***
 
 ---
