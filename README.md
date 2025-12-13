@@ -34,9 +34,12 @@ I am sharing this here because I’m excited to see and share how my learning pr
    - [**For Loop**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/05.2-Iteration-For-loop.ipynb) - For Loop introduction, break Statement, continue Statement, pass Statement, the range() function, nested For loops, enumerate(), etc.
 
    - [**Iteration on Sequences**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/05.3-Iteration-List-Tuple-Dict.ipynb) - Iteration on List, Tuple, Dictionary, etc.
+   
+6. [**Functions**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/06-Functions.ipynb) - Functions, key concepts, return Statement, pass Statement, Variable Scope, Parameters, Arguments, Lambda Functions, Recursions, etc.
+   
 
 
-6. ***(…work in progress..)***
+7. ***(…work in progress..)***
 
 ---
 
