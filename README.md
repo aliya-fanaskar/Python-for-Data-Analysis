@@ -7,35 +7,35 @@ This space documents my personal journey of mastering Python for Data Analytics.
 - Organize and document my diversified learning in one place
 - Create a personal reference hub for easy access in future
 
-I am sharing this here because I’m excited to see and share how my learning process, which includes a mix of structured lessons and curious explorations, evolves over time. This is a **work in progress** repository and I’ll keep adding new notebooks as I learn more.
+I am sharing this here because I’m curious to see and share how my learning process, which includes a mix of structured lessons and self explorations, evolves over time. This is a **work in progress** repository and I’ll keep adding new notebooks as I learn more.
 
 ---
 
 ## Topics Covered (so far)
 
-1. [**Python Programming Basics**](https://github.com/aliya-fanaskar/Python-for-Data-Analysts/blob/main/My_Learning_Journey/01-Python-Programming-Basics.ipynb) - Print statement, Comments, Variables, Data Types, Operators, Conditional Statements, Functions, Built-In Python Functions, Sequences, Iteration, etc.
+1. [**Python Programming Basics**](My_Learning_Journey/01-Python-Programming-Basics.ipynb) - Print statement, Comments, Variables, Data Types, Operators, Conditional Statements, Functions, Built-In Python Functions, Sequences, Iteration, etc.
    
-2. [**All about Strings**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/02-All-about-Strings.ipynb) - Intro, Multi-line Strings, Escape chars, Funtion Parameters, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
+2. [**All about Strings**](My_Learning_Journey/02-All-about-Strings.ipynb) - Intro, Multi-line Strings, Escape chars, Funtion Parameters, Raw strings, Comparison, String Methods, Indexing & Slicing, Membership, Immutability, Formatting Strings, etc.
    
 3. **Sequences**
-   - [**List**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/03.1-Sequences-List.ipynb) - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
+   - [**List**](My_Learning_Journey/03.1-Sequences-List.ipynb) - Creating List, Indexing & Slicing, Modifying elements, List Methods, etc.
 
-   - [**Tuple**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/03.2-Sequences-Tuple.ipynb) - Creating Tuple, List to Tuple, Tuple methods, Immutability, Unpacking, Concatenation, Multiplying Tuples, Deleting tuples, etc.
+   - [**Tuple**](My_Learning_Journey/03.2-Sequences-Tuple.ipynb) - Creating Tuple, List to Tuple, Tuple methods, Immutability, Unpacking, Concatenation, Multiplying Tuples, Deleting tuples, etc.
 
-   - [**Set**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/03.3-Sequences-Set.ipynb) - Creating a Set, Accessing set elements, Set methods: Adding items, Removing items, Joining sets, more Set methods, Frozenset and its methods, etc.
+   - [**Set**](My_Learning_Journey/03.3-Sequences-Set.ipynb) - Creating a Set, Accessing set elements, Set methods: Adding items, Removing items, Joining sets, more Set methods, Frozenset and its methods, etc.
 
-   - [**Dictionary**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/03.4-Sequences-Dictionary.ipynb) - Creating a dictionary, Mutability-Immutability, Dictinary Methods, Nested Dictionaries, etc.
+   - [**Dictionary**](My_Learning_Journey/03.4-Sequences-Dictionary.ipynb) - Creating a dictionary, Mutability-Immutability, Dictinary Methods, Nested Dictionaries, etc.
    
-4. [**Branching**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/04-Branching.ipynb) - Concept, If, Else, Elif, short hand If-Else, pass statement, Match, etc.
+4. [**Branching**](My_Learning_Journey/04-Branching.ipynb) - Concept, If, Else, Elif, short hand If-Else, pass statement, Match, etc.
    
 5. **Iteration**
-   - [**While Loop**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/05.1-Iteration-While-loop.ipynb) - While Loop introduction, break Statement, continue Statement, else Statement, pass Statement, etc.
+   - [**While Loop**](My_Learning_Journey/05.1-Iteration-While-loop.ipynb) - While Loop introduction, break Statement, continue Statement, else Statement, pass Statement, etc.
 
-   - [**For Loop**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/05.2-Iteration-For-loop.ipynb) - For Loop introduction, break Statement, continue Statement, pass Statement, the range() function, nested For loops, enumerate(), etc.
+   - [**For Loop**](My_Learning_Journey/05.2-Iteration-For-loop.ipynb) - For Loop introduction, break Statement, continue Statement, pass Statement, the range() function, nested For loops, enumerate(), etc.
 
-   - [**Iteration on Sequences**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/05.3-Iteration-List-Tuple-Dict.ipynb) - Iteration on List, Tuple, Dictionary, etc.
+   - [**Iteration on Sequences**](My_Learning_Journey/05.3-Iteration-List-Tuple-Dict.ipynb) - Iteration on List, Tuple, Dictionary, etc.
    
-6. [**Functions**](https://github.com/aliya-fanaskar/Python-for-Data-Analysis/blob/main/My_Learning_Journey/06-Functions.ipynb) - Functions, key concepts, return Statement, pass Statement, Variable Scope, Parameters, Arguments, Lambda Functions, Recursions, etc.
+6. [**Functions**](My_Learning_Journey/06-Functions.ipynb) - Functions, key concepts, return Statement, pass Statement, Variable Scope, Parameters, Arguments, Lambda Functions, Recursions, etc.
    
 
 
