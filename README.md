@@ -29,9 +29,9 @@ I am sharing this here because I’m curious to see and share how my learning pr
 4. [**Branching**](My_Learning_Journey/04-Branching.ipynb) - Concept, If, Else, Elif, short hand If-Else, pass statement, Match, etc.
    
 5. **Iteration**
-   - [**While Loop**](My_Learning_Journey/05.1-Iteration-While-loop.ipynb) - While Loop introduction, break Statement, continue Statement, else Statement, pass Statement, etc.
+   - [**For Loop**](My_Learning_Journey/05.1-Iteration-For-loop.ipynb) - For Loop introduction, break Statement, continue Statement, pass Statement, the range() function, nested For loops, enumerate(), etc.
 
-   - [**For Loop**](My_Learning_Journey/05.2-Iteration-For-loop.ipynb) - For Loop introduction, break Statement, continue Statement, pass Statement, the range() function, nested For loops, enumerate(), etc.
+   - [**While Loop**](My_Learning_Journey/05.2-Iteration-While-loop.ipynb) - While Loop introduction, break Statement, continue Statement, else Statement, pass Statement, etc.
 
    - [**Iteration on Sequences**](My_Learning_Journey/05.3-Iteration-List-Tuple-Dict.ipynb) - Iteration on List, Tuple, Dictionary, etc.
    
