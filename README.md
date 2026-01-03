@@ -36,6 +36,8 @@ I am sharing this here because I’m curious to see and share how my learning pr
    - [**Iteration on Sequences**](My_Learning_Journey/05.3-Iteration-List-Tuple-Dict.ipynb) - Iteration on List, Tuple, Dictionary, etc.
    
 6. [**Functions**](My_Learning_Journey/06-Functions.ipynb) - Functions, key concepts, return Statement, pass Statement, Variable Scope, Parameters, Arguments, Lambda Functions, Recursions, etc.
+   - [**Python Function example - Loan EMI calculation**](My_Learning_Journey/06-Loan_EMI_function_example.ipynb) - Step-by-step creation of function, Reusing and improving the function, Handling Exception, Docstring, etc.
+
    
 
 
