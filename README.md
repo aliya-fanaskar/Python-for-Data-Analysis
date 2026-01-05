@@ -37,11 +37,13 @@ I am sharing this here because I’m curious to see and share how my learning pr
    
 6. [**Functions**](My_Learning_Journey/06-Functions.ipynb) - Functions, key concepts, return Statement, pass Statement, Variable Scope, Parameters, Arguments, Lambda Functions, Recursions, etc.
    - [**Python Function example - Loan EMI calculation**](My_Learning_Journey/06-Loan_EMI_function_example.ipynb) - Step-by-step creation of function, Reusing and improving the function, Handling Exception, Docstring, etc.
+   
+7. [**Fundamentals Coding Concepts**](My_Learning_Journey/07-Fundamentals_for_Coding_in_Python.ipynb) - Object Oriented Programming (OOP), Modules, Packages, Python Standard Library, Software Documentation, etc.
 
    
 
 
-7. ***(…work in progress..)***
+8. ***(…work in progress..)***
 
 ---
 
