@@ -39,11 +39,14 @@ I am sharing this here because I’m curious to see and share how my learning pr
    - [**Python Function example - Loan EMI calculation**](My_Learning_Journey/06-Loan_EMI_function_example.ipynb) - Step-by-step creation of function, Reusing and improving the function, Handling Exception, Docstring, etc.
    
 7. [**Fundamentals Coding Concepts**](My_Learning_Journey/07-Fundamentals_for_Coding_in_Python.ipynb) - Object Oriented Programming (OOP), Modules, Packages, Python Standard Library, Software Documentation, etc.
+   
+8. **NumPy**
+   - [**Array Math Basics**](08.1-Array_Maths_basics_for_NumPy.ipynb) - Maths for Python NumPy - Matrix, Scalars, Vectors, Tensors, Arrays, Creating Arrays with NumPy, Adding and Subtracting Arrays, Transpose, Multiplication, Dot Product, etc.
 
    
 
 
-8. ***(…work in progress..)***
+9. ***(…work in progress..)***
 
 ---
 
