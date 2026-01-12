@@ -43,6 +43,8 @@ I am sharing this here because I’m curious to see and share how my learning pr
 8. **NumPy**
    - [**Array Math Basics**](My_Learning_Journey/08.1-Array_Maths_basics_for_NumPy.ipynb) - Maths for Python NumPy - Matrix, Scalars, Vectors, Tensors, Arrays, Creating Arrays with NumPy, Adding and Subtracting Arrays, Transpose, Multiplication, Dot Product, etc.
 
+   - [**NumPy Intro and Basics**](My_Learning_Journey/08.2-NumPy-Intro_and_Basics.ipynb) - Introduction, Data Types, Installation and Importing, NumPy Arrays, Attributes, Dimensions in Arrays, Array Operations, Indexing & Slicing, NumPy Functions, Mathematical Functions, Reshaping, Broadcasting, Stacking, Splitting, Copy vs View, etc.
+
    
 
 
