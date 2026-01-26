@@ -49,7 +49,7 @@ I am sharing this here because I’m curious to see and share how my learning pr
    - [**pandas Intro and Basics**](My_Learning_Journey/09.1-pandas-Intro_and_Basics.ipynb) - Introduction, Installation and Importing, pandas Series, Creating Series, Working with Attributes, Implicit vs Explicit Indexing, Using Methods, pandas DataFrames, Creating DataFrames, The pandas Documentation, etc.
    
 10. **Working with Files**
-   - [**Basic Concepts and Understanding**](My_Learning_Journey/) - Intro to Files, File vs File Object, Types of Data, Data Connectivity, Organisation of Info, Text Files, Relational Database vs Flat File Database, Fixed-width Files, Common Naming Conventions, Importing Files with pandas, NumPy, etc, Working with Excel Files, Saving Data, etc.
+   - [**Understanding the Basics**](My_Learning_Journey/10.1-Files-Basics.ipynb) - Intro to Files, File vs File Object, Types of Data, Data Connectivity, Organisation of Info, Text Files, Relational Database vs Flat File Database, Fixed-width Files, Common Naming Conventions, Importing Files with pandas, NumPy, etc, Working with Excel Files, Saving Data, etc.
 
    
 11. ***(…work in progress..)***
